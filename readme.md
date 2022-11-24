@@ -4,7 +4,7 @@
 
 - Linux
 - Docker (Com docker compose)
-- Copier
+- ![Copier](https://github.com/copier-org/copier)
 - Git
 - Postgresql
 - VSCode
@@ -14,6 +14,7 @@
 `copier copy gh:Tecnativa/doodba-copier-template ./`
 
 ## 1\. Selecione a versão do Odoo desejada
+>OBS: Para localização brasileira utilizar a versão 14
 
 ![odoo_tuto_1](odoo_tuto_1.png)
 
